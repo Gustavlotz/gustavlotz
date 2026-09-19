@@ -26,8 +26,6 @@ Writing
 
 I write about software engineering, architecture, migrations, and lessons from working on production systems.
 
-Website: https://gustavlotz.com
-
 Elsewhere
 Website: https://gustavlotz.com
 LinkedIn: Gustav Lotz
