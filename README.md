@@ -2,7 +2,7 @@ Hi there 👋,
 
 I'm Gustav lotz a Software engineer focused on frontend architecture, SaaS, and modernising production systems.
 
-I work primarily with React, Angular, TypeScript, Node.js, and Nx, with a particular interest in building maintainable frontend systems and migrating legacy applications without unnecessary rewrites.
+I work primarily with React, Angular, TypeScript, Node.js, NX, Nuxt and Vue with a particular interest in building maintainable frontend systems and migrating legacy applications without unnecessary rewrites.
 
 What I work on
 Frontend architecture and large-scale applications
